@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/5-字符串/2.多行字符串" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5-字符串/3.字符串便捷方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5-字符串/4.正则表达式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-集合类/1.使用list" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
