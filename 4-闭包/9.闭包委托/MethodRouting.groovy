@@ -23,12 +23,11 @@ class Example {
 }
 
 
-// 该方法属于闭包的
+// 该方法属于闭包的，这属于闭包的 this 作用域。
 def f1() { println "f1 of Script called ..." }
 // 测试闭包没有 f2 方法 def f2() { println "f2 of Script called ..." }
 
 new Example().foo {
-    // 闭包内存在三个属性 this、owner、delegate
     // 闭包有 f1，调用自己 this 的。
     f1()
     // 闭包没有 f2，调用 owner 的，owner 也没有，调用 delegate 的
