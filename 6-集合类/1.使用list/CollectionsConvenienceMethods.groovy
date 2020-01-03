@@ -90,3 +90,4 @@ def words(a, b, c, d) {
 }
 
 words(*list)
+
