@@ -38,6 +38,9 @@
       <sourceFolder url="file://$MODULE_DIR$/5-字符串/4.正则表达式" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6-集合类/1.使用list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6-集合类/2.使用map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/3.使用拓展模块定制方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/2.其他拓展" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/1.使用Object类的拓展" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
