@@ -1,0 +1,8 @@
+# 为模块起的逻辑名
+moduleName=price-module
+# 检查该版本是否已加载
+moduleVersion=1.0-test
+# 包含「实例拓展方法」的复制类的全类名（多个以逗号分隔）
+extensionClasses=xyz.yuzh.extensions.PriceExtension
+# 包含「静态拓展方法」的辅助类的全类名（多个以逗号分隔）
+staticExtensionClasses=xyz.yuzh.extensions.PriceStaticExtension
