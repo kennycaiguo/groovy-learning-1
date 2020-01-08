@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<languages xmlns:computer='Computer'><!--Created using StreamingMarkupBuilder-->
+    <computer:language name='C++'>
+        <author>Stroustrup</author>
+    </computer:language>
+    <computer:tag1 testproperty1='property-value' testproperty2='property-value'>
+        <computer:tag2>
+            <tag22>value</tag22>
+        </computer:tag2>
+    </computer:tag1>
+    <computer:language name='Java'>
+        <author>Gosling</author>
+    </computer:language>
+    <computer:tag1 testproperty1='property-value' testproperty2='property-value'>
+        <computer:tag2>
+            <tag22>value</tag22>
+        </computer:tag2>
+    </computer:tag1>
+    <computer:language name='Lisp'>
+        <author>MacCartthy</author>
+    </computer:language>
+    <computer:tag1 testproperty1='property-value' testproperty2='property-value'>
+        <computer:tag2>
+            <tag22>value</tag22>
+        </computer:tag2>
+    </computer:tag1>
+</languages>
