@@ -41,6 +41,8 @@
       <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/3.使用拓展模块定制方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/2.其他拓展" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/1.使用Object类的拓展" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/2.创建XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/1.解析XML" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

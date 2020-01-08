@@ -1,0 +1,8 @@
+<languages xmlns:computer="Computer" xmlns:natural="Natural">
+    <computer:language name="Java"></computer:language>
+    <computer:language name="Groovy"></computer:language>
+    <computer:language name="Erlang"></computer:language>
+    <natural:language name="English"></natural:language>
+    <natural:language name="German"></natural:language>
+    <natural:language name="French"></natural:language>
+</languages>
