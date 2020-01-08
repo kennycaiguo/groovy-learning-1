@@ -43,9 +43,23 @@
       <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/1.使用Object类的拓展" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8-处理XML/2.创建XML" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8-处理XML/1.解析XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/2.连接到数据库" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/3.Select操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/4.查询并输出XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/5.使用DataSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/6.插入和更新" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="groovy-2.5.8" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/mysql-connector-java-8.0.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<weather>
+    <city name='Austin'>
+        <temperature>48</temperature>
+    </city>
+    <city name='Baton Rouge'>
+        <temperature>57</temperature>
+    </city>
+    <city name='Jackson'>
+        <temperature>50</temperature>
+    </city>
+    <city name='Montgomery'>
+        <temperature>53</temperature>
+    </city>
+    <city name='Phoenix'>
+        <temperature>67</temperature>
+    </city>
+    <city name='Sacramento'>
+        <temperature>66</temperature>
+    </city>
+    <city name='Santa'>
+        <temperature>27</temperature>
+    </city>
+    <city name='Tallhassee'>
+        <temperature>59</temperature>
+    </city>
+</weather>
