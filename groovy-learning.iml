@@ -48,10 +48,16 @@
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/4.查询并输出XML" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/5.使用DataSet" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/6.插入和更新" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.使用脚本和类/2.运行 Groovy 代码" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/4.使用联合编译混合使用Java和Groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/5.在Java中创建和传递Groovy闭包" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/6.在Java中调用Groovy动态方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Java类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Groovy脚本" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/8.在Java中使用Groovy脚本" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="groovy-2.5.8" level="application" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -61,5 +67,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="groovy-2.5.8" level="application" />
   </component>
 </module>
