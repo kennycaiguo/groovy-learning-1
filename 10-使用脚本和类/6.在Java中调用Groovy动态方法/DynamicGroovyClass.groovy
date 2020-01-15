@@ -20,4 +20,5 @@ class DynamicGroovyClass {
         println "method1 -> args: ${args.join(', ')}"
         args.size()
     }
+
 }

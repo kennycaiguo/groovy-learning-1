@@ -1,0 +1,14 @@
+spring:
+  groovy:
+    template:
+      check-template-location: false
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/uaa
+      username: root
+      password: harry@admin
+      driver-class-name: com.mysql.cj.jdbc.Driver
+
+groovy:
+  script-path:
+    - /Users/Harry/Workspace/groovy-learning/10-使用脚本和类/combining-groovy-java/src/main/groovy
