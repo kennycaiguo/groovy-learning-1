@@ -55,6 +55,9 @@
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Java类" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Groovy脚本" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/8.在Java中使用Groovy脚本" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/1.Groovy对象" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/2.查询方法和协议" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/3.动态访问对象" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
