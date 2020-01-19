@@ -58,6 +58,10 @@
       <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/1.Groovy对象" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/2.查询方法和协议" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/3.动态访问对象" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12-使用MOP拦截方法/1.使用GroovyInterceptable拦截方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12-使用MOP拦截方法/2.使用MetaClass拦截方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/1.使用分类注入方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/2.使用ExpandMetaClass注入方法" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
