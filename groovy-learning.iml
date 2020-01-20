@@ -62,6 +62,10 @@
       <sourceFolder url="file://$MODULE_DIR$/12-使用MOP拦截方法/2.使用MetaClass拦截方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/1.使用分类注入方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/2.使用ExpandMetaClass注入方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/3.向具体对象实例注入方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/4.使用Mixin注入方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/5.在类中使用多个Mixin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/13.操作符重载" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
