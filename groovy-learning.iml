@@ -1,58 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/7.JavaBean" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/1.Hello,Groovy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/10.使用多赋值" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/11.实现接口" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/12.布尔求值" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/14.对Java5特性的支持" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/15.使用Groovy的代码生成" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/2.循环的方式" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/3.GDK一瞥" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/4.安全导航操作符" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/5.异常处理" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/6.Groovy特性" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/8.灵活初始化与具名参数" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/9.可选形参" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/16.陷阱" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/1.java中的类型" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/4.能力式设计" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/6.多方法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/8.关闭动态类型" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/1.闭包的便利性" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/3.闭包的使用方式" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/4.向闭包传递参数" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/5.使用闭包进行资源清理" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/6.闭包与协程" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/7.科里化（curried）闭包" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/8.动态闭包" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/9.闭包委托" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/10.尾递归" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4-闭包/11.闭包记忆化" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/5-字符串/1.字面常量与表达式" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/5-字符串/2.多行字符串" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/5-字符串/3.字符串便捷方法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/5-字符串/4.正则表达式" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/6-集合类/1.使用list" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/6-集合类/2.使用map" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/3.使用拓展模块定制方法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/2.其他拓展" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/1.使用Object类的拓展" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/2.创建XML" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/1.解析XML" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/2.连接到数据库" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/3.Select操作" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/4.查询并输出XML" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/5.使用DataSet" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/6.插入和更新" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10.使用脚本和类/2.运行 Groovy 代码" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/2.运行 Groovy 代码" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/4.使用联合编译混合使用Java和Groovy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/5.在Java中创建和传递Groovy闭包" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/6.在Java中调用Groovy动态方法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Java类" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/7.在Groovy中使用Groovy脚本" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10-使用脚本和类/8.在Java中使用Groovy脚本" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11-元对象协议（MOP）/1.Groovy对象" isTestSource="false" />
@@ -65,10 +20,71 @@
       <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/3.向具体对象实例注入方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/4.使用Mixin注入方法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-MOP方法注入/5.在类中使用多个Mixin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14-MOP方法合成/1.使用MethodMissing合成方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14-MOP方法合成/2.使用ExpandoMetaClass合成方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14-MOP方法合成/3.为具体实例合成方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15-MOP技术汇总/1.使用Expando创建动态类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15-MOP技术汇总/2.方法委托：汇总练习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15-MOP技术汇总/3.MOP技术回顾" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/1.Hello,Groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/10.使用多赋值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/11.实现接口" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/12.布尔求值" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/13.操作符重载" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/14.对Java5特性的支持" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/15.使用Groovy的代码生成" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/16.陷阱" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/2.循环的方式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/3.GDK一瞥" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/4.安全导航操作符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/5.异常处理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/6.Groovy特性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/7.JavaBean" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/8.灵活初始化与具名参数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-面向Java开发者的Groovy/9.可选形参" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/1.java中的类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/4.能力式设计" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/6.多方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-动态类型/8.关闭动态类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/1.闭包的便利性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/10.尾递归" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/11.闭包记忆化" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/3.闭包的使用方式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/4.向闭包传递参数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/5.使用闭包进行资源清理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/6.闭包与协程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/7.科里化（curried）闭包" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/8.动态闭包" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-闭包/9.闭包委托" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-字符串/1.字面常量与表达式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-字符串/2.多行字符串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-字符串/3.字符串便捷方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-字符串/4.正则表达式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-集合类/1.使用list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-集合类/2.使用map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/1.使用Object类的拓展" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/2.其他拓展" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7-探索GDK/3.使用拓展模块定制方法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/1.解析XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8-处理XML/2.创建XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/2.连接到数据库" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/3.Select操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/4.查询并输出XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/5.使用DataSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/6.插入和更新" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="groovy-lib" level="application" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/groovy-2.5.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -78,6 +94,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="groovy-2.5.8" level="application" />
   </component>
 </module>
