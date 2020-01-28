@@ -1,0 +1,15 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "Special interest groups": [
+    "Java",
+    "Groovy"
+  ],
+  "preferred tools": {
+    "numberOfTools": 2,
+    "tools": {
+      "script": "Groovy",
+      "test": "Spock"
+    }
+  }
+}
