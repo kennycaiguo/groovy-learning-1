@@ -6,7 +6,7 @@ import groovy.xml.StreamingMarkupBuilder
  * 使用 MarkupBuilder 或 StreamingMarkupBuilder 从任意源创建 xml 格式的数据输出。
  * 其提供了一些便捷方法使得创建 xml 变得更加容易。
  *
- * MarkupBuilder 会将生成的 xml 输出到 System.out
+ * MarkupBuilder 会将生成的 xml 输出到标准输出（System.out）
  * StreamingMarkupBuilder 会将生成的 xml 返回为一个 GString
  *
  * @author Harry Zhang 

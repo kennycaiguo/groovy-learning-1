@@ -72,6 +72,12 @@
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/4.查询并输出XML" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/5.使用DataSet" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9-处理数据库/6.插入和更新" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/1.构建XML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/2.构建JSON" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/3.构建Swing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/4.使用元编程定制生成器" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/5.使用BuilderSupport" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17-Groovy生成器/6.使用FactoryBuilderSupport" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
